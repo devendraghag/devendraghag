@@ -16,6 +16,7 @@ I build web applications and backend services with Java, Spring Boot, Vue.js, Po
 | [ECMAScript Learning Lab](https://github.com/devendraghag/ecma_repository) | A structured JavaScript learning course with runnable examples, practice exercises, and verification scripts. |
 | [SQL Learning Journey](https://github.com/devendraghag/sql-learning-journey) | Oracle-compatible SQL lessons built around a relational practice dataset, with query examples and interview revision prompts. |
 | [Git in Practice](https://github.com/devendraghag/git-in-practice) | A practical guide to Git commands, safe recovery, branching, and remote collaboration. |
+| [Kafka Learning Lab](https://github.com/devendraghag/kafka) | Hands-on Kafka lessons with a Spring Boot service, interactive browser guide, Avro schema evolution, consumer groups, retries, and transactions. |
 
 ## Engineering focus
 
