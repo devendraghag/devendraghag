@@ -14,7 +14,7 @@ I build web applications and backend services with Java, Spring Boot, Vue.js, Po
 | [Emerald Housing](https://github.com/devendraghag/emerald-housing) · [Frontend](https://github.com/devendraghag/emerald-housing-frontend) | A housing management application with Java services, a Vue interface, API integration, authentication, and Kubernetes deployment work. |
 | [Java Learning Lab](https://github.com/devendraghag/java_lts_upto21) | Focused Java examples covering core language concepts, object-oriented design, collections, streams, concurrency, and features through Java 21. |
 | [ECMAScript Learning Lab](https://github.com/devendraghag/ecma_repository) | A structured JavaScript learning course with runnable examples, practice exercises, and verification scripts. |
-| [SQL Learning Journey](https://github.com/devendraghag/sql-learning-journey) | Oracle-compatible SQL lessons built around a relational practice dataset, with query examples and interview revision prompts. |
+| [SQL Learning Playground](https://github.com/devendraghag/sql-learning-playground) | A standalone browser SQL playground with a sample shop dataset, interactive lessons, and a clearly scoped PostgreSQL-style teaching simulator. |
 | [Git in Practice](https://github.com/devendraghag/git-in-practice) | A practical guide to Git commands, safe recovery, branching, and remote collaboration. |
 | [Kafka Learning Lab](https://github.com/devendraghag/kafka) | Hands-on Kafka lessons with a Spring Boot service, interactive browser guide, Avro schema evolution, consumer groups, retries, and transactions. |
 
